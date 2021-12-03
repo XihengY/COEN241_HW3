@@ -24,6 +24,7 @@ s7 lo:  s7-eth1:s5-eth3 s7-eth2:h7-eth0 s7-eth3:h8-eth0
 c0
 
 2. What is the output of “h7 ifconfig”
+
 The output of "h7 ifconfig" is: 
 h7-eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 10.0.0.7  netmask 255.0.0.0  broadcast 10.255.255.255
@@ -42,6 +43,7 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         RX errors 0  dropped 0  overruns 0  frame 0
         TX packets 0  bytes 0 (0.0 B)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
 
 
 Task 2's questions
